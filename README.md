@@ -1,8 +1,1 @@
-# Calculator
-# Calculator
-# Calculator
-# Calculator
-"# Kalkulator" 
-# Kalkulator
-# kalkulatorr
-# projectKalkulator
+Project Kalkulator menggunakan bahasa pemrograman html, css dan javascript
